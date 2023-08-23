@@ -7,3 +7,6 @@
 
 ## Sprint 2 
 ![Sprint2](https://github.com/mtsfreitas/chimera-app-design/assets/21324690/c5e257d5-386f-4079-afd4-80b1ecf86536)
+
+## Sprint 3
+![Sprint3](https://github.com/mtsfreitas/chimera-app-design/assets/21324690/d18e81c0-390b-4565-9b05-5e998155bdda)
