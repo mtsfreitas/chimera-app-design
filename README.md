@@ -3,7 +3,7 @@
 ## Logo (new Chimera)
 ![LogoChimera](https://github.com/mtsfreitas/chimera-app-design/assets/21324690/4da63dd7-2bac-4d18-a0ba-c4a799afee88)
 
-## Chimera UFV
+## Chimera UFV (Chimera reference)
 ![image](https://github.com/mtsfreitas/chimera-app-design/assets/21324690/5705b94d-0110-4f80-a4ed-cadbfd364ece)
 
 ## Sprint 1
