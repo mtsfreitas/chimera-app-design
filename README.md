@@ -10,6 +10,10 @@ Tool used:
 ![image](https://github.com/mtsfreitas/chimera-app-design/assets/21324690/5705b94d-0110-4f80-a4ed-cadbfd364ece)
 
 ## Sprint 1
+
+Tool used: 
+* Figma
+
 ![Sprint1](https://github.com/mtsfreitas/chimera-app-design/assets/21324690/eb4ecdaa-bb20-4eea-93de-f0ab26bc5f60)
 
 ## Sprint 2 
